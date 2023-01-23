@@ -7,8 +7,5 @@ The **LIS302DL** is an ultra compact low-power three axes linear accelerometer. 
 
 > [View Code](https://github.com/khalinuxx/STM32_LIS302DL_sensor/blob/main/Src/main.c) 
 
-**Datasheet**
-
-http://www.st.com/resource/en/datasheet/lis302dl.pdf
-
-**Video**
+# [DataSheet](http://www.st.com/resource/en/datasheet/lis302dl.pdf)
+# [Video](https://www.linkedin.com/posts/khalil-2023-mansouri_stm32-microcontroller-accelerometer-activity-7023249817879359488-fBj_?utm_source=share&utm_medium=member_desktop)
