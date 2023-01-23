@@ -5,7 +5,7 @@ Learning and testing various sensors of [STM32DISCOVERYF4](http://www.st.com/en/
 ## LIS302DL: 3-axis accelerometer
 The **LIS302DL** is an ultra compact low-power three axes linear accelerometer. It includes a sensing element and an IC interface able to provide the measured acceleration to the external world through I2C/SPI serial interface.
 
-> [View Code](https://github.com/tueytoma/Hardware_Lab_Project/tree/master/Sensors%205730625221/LIS302DL) 
+> [View Code](https://github.com/khalinuxx/STM32_LIS302DL_sensor/blob/main/Src/main.c) 
 
 **Datasheet**
 
